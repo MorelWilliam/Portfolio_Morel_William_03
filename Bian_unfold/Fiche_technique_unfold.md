@@ -1,8 +1,11 @@
-- ### Titre de l'oeuvre ou de la réalisation : Unfold
+- ### Titre de l'oeuvre ou de la réalisation : 
+      Unfold
 
-- ## Nom de l'artiste : Ryoichi Kurokawa
+- ## Nom de l'artiste : 
+     Ryoichi Kurokawa
 
-- ## Année de réalisation : 2016
+- ## Année de réalisation : 
+     2016
 
 - ## Nom de l'exposition :
     Métarmorphosis Art Numérique & Imersif 
@@ -13,9 +16,10 @@
 - ## Date de notre visite :
      10 février 2022
 
-- ## Description de l'oeuvre ou du dispositif multimédia (citer sa source) :
+- ## Description de l'oeuvre ou du dispositif multimédia (citer sa source) : 
+     Inspirée des dernières découvertes dans le domaine de l'astrophysique, unfold, est une installation immersive et sensorielle, qui cherche à traduire en sons, images et vibrations les phénomènes entourant la formation et l'évolution des étoiles et galaxies.
 
-- ## Explication sur la mise en espace de l'oeuvre ou du dispositif(texte à composer) :
+- ## Explication sur la mise en espace de l'oeuvre ou du dispositif(texte à composer) : Unfold était disposé au centre droit de l'exposition et un grand espace était consacré a elle. Trois écrans étaitent disposés au-dessus d'une plateforme en bois et quatre hauts parleurs disposer a chacun des coins de la plateforme. Derrière la plateforme il y avait un carré de clôture.
 
 - ## Liste des composantes et techniques de l'oeuvre ou dispositif : 
   L'installation audiovisuelle de l'oeuvre était constituée de 3 écrans accrochés par des câbles, 3 projecteurs HD accrochés sur des tuyaux au plafond, des caches câbles, 8 transducteurs, 4 enceintes sur des trépieds qui projetaient un son surround 6.1.1, une grande plate-forme en bois qui était par-dessus un système de vibration. Le système de vibration réagissait aux sons venant des enceintes.
@@ -32,4 +36,5 @@
 - ## Aspect que je souhaiterais faire autrement ou ce que je changerais :
      Dans l'exposition plusieurs fascicules étaient très difficile à trouver. Ces fascicules représente les pensées des artistes.
 
-- Source : 
+- ## Source : 
+  https://artcollection.salford.ac.uk/ryoichi-kurokawa-unfold-alt/#:~:text=a%20fascinating%20synthesis.-,unfold.,evolution%20of%20stars%20and%20galaxies.
