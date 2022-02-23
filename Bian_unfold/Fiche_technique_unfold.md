@@ -19,7 +19,8 @@
 - ## Description de l'œuvre ou du dispositif multimédia (citer sa source) :
      Inspirée des dernières découvertes dans le domaine de l'astrophysique, unfold, est une installation immersive et sensorielle, qui cherche à traduire en sons, images et vibrations les phénomènes entourant la formation et l'évolution des étoiles et galaxies.
 
-- ## Explication sur la mise en espace de l'œuvre ou du dispositif (texte à composer) : Unfold était disposé au centre droit de l'exposition et un grand espace était consacré a      elle. Trois écrans étaient disposés au-dessus d'une plateforme en bois et quatre hauts parleurs disposer a chacun des coins de la plateforme. Derrière la plateforme, il y avait un carré de clôture et à l'intérieur de celui s'il y avait 1 projecteur.
+- ## Explication sur la mise en espace de l'œuvre ou du dispositif (texte à composer) : 
+     Unfold était disposé au centre droit de l'exposition et un grand espace était consacré a      elle. Trois écrans étaient disposés au-dessus d'une plateforme en bois et quatre hauts parleurs disposer a chacun des coins de la plateforme. Derrière la plateforme, il y avait un carré de clôture et à l'intérieur de celui s'il y avait 1 projecteur.
 
 - ## Liste des composantes et techniques de l'œuvre ou dispositif :
      L'installation audiovisuelle de l'œuvre était constituée de 3 écrans accrochés par des câbles, 3 projecteurs HD accrochés sur des tuyaux au plafond, des caches câbles, 8 transducteurs, 4 enceintes sur des trépieds qui projetaient un son surround 6.1.1, une grande plate-forme en bois qui était par-dessus un système de vibration. Le système de vibration réagissait aux sons venant des enceintes.
