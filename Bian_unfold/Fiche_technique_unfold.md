@@ -21,6 +21,10 @@
 
 - ## Explication sur la mise en espace de l'œuvre ou du dispositif (texte à composer) : 
      Unfold était disposé au centre droit de l'exposition et un grand espace était consacré a      elle. Trois écrans étaient disposés au-dessus d'une plateforme en bois et quatre hauts parleurs disposer a chacun des coins de la plateforme. Derrière la plateforme, il y avait un carré de clôture et à l'intérieur de celui s'il y avait 1 projecteur.
+     
+     ![photo](medias/photo_backstage.png)
+     
+     ![photo](medias/photo_devant.png)
 
 - ## Liste des composantes et techniques de l'œuvre ou dispositif :
      L'installation audiovisuelle de l'œuvre était constituée de 3 écrans accrochés par des câbles, 3 projecteurs HD accrochés sur des tuyaux au plafond, des caches câbles, 8 transducteurs, 4 enceintes sur des trépieds qui projetaient un son surround 6.1.1, une grande plate-forme en bois qui était par-dessus un système de vibration. Le système de vibration réagissait aux sons venant des enceintes.
@@ -28,6 +32,7 @@
 - ## Expérience vécue :
      Quand je suis rentré dans l'exposition, Unfold était l'œuvre la plus massive et celle que l'on voyait en premier. Le son de la réalisation était excessivement fort ce qui a directement captivé mon attention. Après plusieurs minutes passées assis dans l'œuvre j'étais comment dire, hypnotisé. J'en conclus que j'ai vraiment passé un bon moment en regardant cette œuvre.
 
+ ![photo](medias/photo_moi.png)
 - ## Description de mon expérience de l'œuvre ou du dispositif, de l'interactivité et des gestes à poser :
      Cette œuvre est facile à comprendre techniquement parlant et très libre, vous pouvez vous coucher, être assis, debout et etc. Personnellement, la première fois, je m'étais assis, mais il était difficile de pouvoir regarder les 3 écrans en même temps. Donc, la deuxième fois, je me suis couché sur la plateforme et j'ai pu vraiment apprécier l'œuvre. Cette position amenait une sorte de renfermement sur nous-même, car nous ne voyons que les écrans et avec les 4 enceintes qui nous entourais elles rendaient l'expérience encore plus hors-du commun.
 
