@@ -64,6 +64,8 @@ L'œuvre est une composition en "loop" , de 32 minutes, venant de l'endroit où 
 
 L'œuvre, LE FLEUVE, 50° 11′ 53,8” N., 66° 4′ 10″ O., 2022, avait son espace à elle. L'œuvre qui la précédait, L'en deça.2022, guidait le visiteur directement devant la composition hypnotisante. Elle était situé au haut droit de la salle, un grand espace était dévoué à elle pour laisser les spectateurs s'asseoir, se coucher ou à leur guise.
 
+![croquis/croquis.png](image.jpg)
+
 
 
 
