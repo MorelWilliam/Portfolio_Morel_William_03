@@ -7,7 +7,7 @@ LE FLEUVE, 50° 11′ 53,8” N., 66° 4′ 10″ O., 2022
 
 
 ## Nom des artistes
-![bechard_hudon](medias/bechard_hudon.jpeg)
+![bechard_hudon](medias/bechard_hudon.jpg)
 
 
 Catherine Béchard & Sabin Hudon
@@ -50,6 +50,8 @@ La salle Alfred Pellan à la Maison des arts de Laval
 
 
 
+
+![feuille](medias/feuille_fleuve.png)
 L'œuvre est une composition en "loop" , de 32 minutes, venant de l'endroit où les eaux de la mer se confondent avec celle du fleuve, l'endroit se nomme la Pointe à Moisie. En fait, il s'agit d'un rassemblement de 4 vidéos différentes, projetés sur le mur, créant un effet hypnotisant ! Nous pouvons remarquer qu'il s'agit de 4 vidéos du fleuve tourné à la vertical.
 
 
@@ -65,6 +67,8 @@ L'œuvre est une composition en "loop" , de 32 minutes, venant de l'endroit où 
 L'œuvre, LE FLEUVE, 50° 11′ 53,8” N., 66° 4′ 10″ O., 2022, avait son espace à elle. L'œuvre qui la précédait, L'en deça.2022, guidait le visiteur directement devant la composition hypnotisante. Elle était situé au haut droit de la salle, un grand espace était dévoué à elle pour laisser les spectateurs s'asseoir, se coucher ou à leur guise.
 
 ![croquis](croquis/croquis.png)
+![espace_fleuve](medias/espace_fleuve.png)
+
 
 
 
@@ -79,6 +83,7 @@ L'œuvre n'avait besoin qu'un projecteur et qu'un mur pour la projection. Le pro
 
 
 ## Expérience vécue
+![photo_portrait](medias/photo_portrait.png)
 
 
 
