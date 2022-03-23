@@ -7,7 +7,7 @@ LE FLEUVE, 50° 11′ 53,8” N., 66° 4′ 10″ O., 2022
 
 
 ## Nom des artistes
-
+![bechard_hudon](medias/bechard_hudon.jpeg)
 
 
 Catherine Béchard & Sabin Hudon
