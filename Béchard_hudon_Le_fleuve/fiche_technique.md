@@ -3,7 +3,7 @@
 
 
 LE FLEUVE, 50° 11′ 53,8” N., 66° 4′ 10″ O., 2022
-
+![fleuve](medias/photo_projection.png)
 
 
 ## Nom des artistes
