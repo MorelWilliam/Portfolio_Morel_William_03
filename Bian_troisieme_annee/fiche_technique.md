@@ -35,7 +35,7 @@
   ![casier](medias/photo_casier.JPG)
 
 - ## Description de mon expérience de l'oeuvre ou du dispositif,de l'intéractivité et des gestes à poser
-  ![geste](medias/imaa=ge_couloir.JPG)
+  ![geste](medias/image_couloir.JPG)
 
 - ## Ce qui m'a plus, vous a donné des idées et justification
 
