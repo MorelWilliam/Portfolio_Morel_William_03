@@ -27,7 +27,7 @@
 ![croquis](croquis/croquis.png)
 
 - ## Listes des composantes et techniques de l'oeuvre ou dispositif
-  
+  Pour les composantes et techniques de l'oeuvre l'équipe ont utilisé 2 projecteurs de lumière, des détecteurs de présence , 4 petits hauts-parleurs aux 4 coins du casier, un gros haut-parleur à l'extérieur du casier, un casque de réalité virtuelle oculus et deux manettes branché à un ordinateur portable. Pour les techniques utilisés nous pouvons remarquer qu'ils ont utilisés un logiciel de 3D pour créer le jeux et un logiciel sonore pour créer la bande sonore.
    
  ![casque](medias/image_casque.JPG)
  ![projecteur](medias/image_projecteur.JPG)
@@ -38,7 +38,10 @@
  
 
 - ## Expérience vécue
+  J'ai vécu deux expériences complétements différentes l'une de l'autre. Premièrement, c'était la deuxième fois que je portais un casque de réalité virtuel et j'avais beaucoup de difficulter à voir l'image sans mes lunettes. J'avais essayé avec mes lunettes, mais j'ai préféré les enlever, car je n'étais pas confortable. Apars ceci j'ai beaucoup aimé jouer au ballon chasseur, le jeux était fluide et très amusant. Pour la deuxième partie de l'oeuvre (le casier), j'ai été agréablement surpris, je me croyais vraiment dans un casier. Le casier était vraiment bien fait, les proportions étaient vraiment bonne et le son dans le casier était assez fort pour qu'ont sois  
+  
   ![casier](medias/photo_casier.JPG)
+  
 
 - ## Description de mon expérience de l'oeuvre ou du dispositif,de l'intéractivité et des gestes à poser
   ![geste](medias/image_couloir.JPG)
