@@ -38,14 +38,16 @@
  
 
 - ## Expérience vécue
-  J'ai vécu deux expériences complétements différentes l'une de l'autre. Premièrement, c'était la deuxième fois que je portais un casque de réalité virtuel et j'avais beaucoup de difficulter à voir l'image sans mes lunettes. J'avais essayé avec mes lunettes, mais j'ai préféré les enlever, car je n'étais pas confortable. Apars ceci j'ai beaucoup aimé jouer au ballon chasseur, le jeux était fluide et très amusant. Pour la deuxième partie de l'oeuvre (le casier), j'ai été agréablement surpris, je me croyais vraiment dans un casier. Le casier était vraiment bien fait, les proportions étaient vraiment bonne et le son dans le casier était assez fort pour qu'ont sois  
+  J'ai vécu deux expériences complétements différentes l'une de l'autre. Premièrement, c'était la deuxième fois que je portais un casque de réalité virtuel et j'avais beaucoup de difficulter à voir l'image sans mes lunettes. J'avais essayé avec mes lunettes, mais j'ai préféré les enlever, car je n'étais pas confortable. Apars ceci j'ai beaucoup aimé jouer au ballon chasseur, le jeux était fluide et très amusant. Pour la deuxième partie de l'oeuvre (le casier), j'ai été agréablement surpris, je me croyais vraiment dans un casier. Le casier était vraiment bien fait, les proportions étaient vraiment bonne et le son dans le casier était assez fort pour que l'expérience sois immersive.
   
   ![casier](medias/photo_casier.JPG)
   
-
-- ## Description de mon expérience de l'oeuvre ou du dispositif,de l'intéractivité et des gestes à poser
   ![geste](medias/image_couloir.JPG)
 
 - ## Ce qui m'a plus, vous a donné des idées et justification
+  J'ai aimé que dans le jeux il y avait des (easter egg), des éléments cachés que quand l'intéracteur l'activait des choses qui, au lancement du jeux, n'étaient pas là, mais apparaît quand nous l'activons. J'aimerais recréer ceci dans mon oeuvre de troisième année, car ces (easter egg) permet à l'intéracteur le sentiment de vouloir plus découvrir.
 
-- ## Aspect que je souhaiterais faire autrement ou ce que je changerais**
+- ## Aspect que je souhaiterais faire autrement ou ce que je changerais
+  Dans le couloir, j'ai remarqué directement des écrans qui affiche un texte et des numéros à appeler en urgence, cela avait un peu (casser) l'expérience, car je savais déjà ce que je m'apprètais à faire. J'aurais peux-être mis un projecteur au dessus des écrans pour que quand nous finnissons l'expérience du casier une lumière éclair l'écran.
+  
+  
