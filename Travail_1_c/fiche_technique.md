@@ -5,9 +5,9 @@
   ![alt text](image.jpg)
 
 - ## Année de réalisation
- - Flow : Aucune date n'est cité dans le site de l'artiste. 	![alt text](image.jpg)
- - Recrusive Reflections : Aucun site est à notre disposition, donc aucune information est mentionné.	![alt text](image.jpg)
- - New Land : L'oeuvre à été créer en 2021.	![alt text](image.jpg)
+ - Flow : Aucune date n'est cité dans le site de l'artiste. 
+ - Recrusive Reflections : Aucun site est à notre disposition, donc aucune information est mentionné.
+ - New Land : L'oeuvre à été créer en 2021.
  
 
 - ## Nom de l'exposition
