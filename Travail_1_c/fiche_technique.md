@@ -24,7 +24,7 @@
 - ## Description de l'oeuvre ou du dispositif multimédia
  - Flow :  Cette oeuvre est une installation interactive immersive qui s'inspire du " phénomène naturel des marées ". Cette oeuvre à pour but d'être abstraite pour permettre la libre interprétation des interacteurs. [flow](https://youtu.be/NexDQ-HeGDs)
  - Recrusive Reflections :  Aucune information est écrite sur l'oeuvre en tant que tel, mais plutôt sur l'artiste. Julius Horsthius utilise les mathématiques et les motifs géométriques. 	[recrusive_reflection](https://youtu.be/P8KUAvyrAck)
- - New Land : Cette oeuvre est "expérience immersive audiovisuelle contemplative qui propose une réflexion sur notre environnement et la façon dont nous percevons la réalité". 	[new_land](https://youtu.be/AJssnlt3PA4)
+ - New Land : Cette oeuvre est une "expérience immersive audiovisuelle contemplative qui propose une réflexion sur notre environnement et la façon dont nous percevons la réalité". 	[new_land](https://youtu.be/AJssnlt3PA4)
   
   - Dans l'oeuvre New-Land nous pouvons retrouver la même technologie utilisé dans ,l'oeuvre What is Left of Reality de  Pierre Zandrowicz & Ferdinand Dervieux ,que nous avions eu la chance de voir la session passé dans le cour de Guillaume Arsenault. 	![awhat_is_left_of_reality](Medias/oeuvre_what_is_left_of_reality.png)
 
