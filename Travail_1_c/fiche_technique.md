@@ -21,10 +21,10 @@
 - ## Date de notre visite
  Nous avons visité l'exposition le 12 mars 2022.
 
-- ## Description de l'oeuvre ou du dispositif multimédia (citer sa source)
- - Flow :  Cette oeuvre est une installation interactive immersive qui s'inspire du " phénomène naturel des marées ". Cette oeuvre à pour but d'être abstraite pour permettre la libre interprétation des interacteurs. 	![alt text](image.jpg)  
- - Recrusive Reflections :  Aucune information est écrite sur l'oeuvre en tant que tel, mais plutôt sur l'artiste. Julius Horsthius utilise les mathématiques et les motifs géométriques. 	![alt text](image.jpg)
- - New Land : Cette oeuvre est "expérience immersive audiovisuelle contemplative qui propose une réflexion sur notre environnement et la façon dont nous percevons la réalité". 	![alt text](image.jpg)
+- ## Description de l'oeuvre ou du dispositif multimédia
+ - Flow :  Cette oeuvre est une installation interactive immersive qui s'inspire du " phénomène naturel des marées ". Cette oeuvre à pour but d'être abstraite pour permettre la libre interprétation des interacteurs. [flow](https://youtu.be/NexDQ-HeGDs)
+ - Recrusive Reflections :  Aucune information est écrite sur l'oeuvre en tant que tel, mais plutôt sur l'artiste. Julius Horsthius utilise les mathématiques et les motifs géométriques. 	[recrusive_reflection](https://youtu.be/P8KUAvyrAck)
+ - New Land : Cette oeuvre est "expérience immersive audiovisuelle contemplative qui propose une réflexion sur notre environnement et la façon dont nous percevons la réalité". 	[new_land](https://youtu.be/AJssnlt3PA4)
   
   - Dans l'oeuvre New-Land nous pouvons retrouver la même technologie utilisé dans ,l'oeuvre What is Left of Reality de  Pierre Zandrowicz & Ferdinand Dervieux ,que nous avions eu la chance de voir la session passé dans le cour de Guillaume Arsenault. 	![alt text](image.jpg)
 
@@ -47,6 +47,7 @@
 
 - ## Ce qui m'a plus, vous a donné des idées et justification
  J'ai beaucoup aimé la liberté que l'exposition donnait aux intéracteurs. Je m'explique, l'exposition avait des grands espaces qui donnaient la liberter aux intéracteurs de s'assoir comme ils veulent, de bouger et d'avoir de l'amusement. Donc, j'aimerais reproduire l'idée de liberté dans mes futurs projets.
+ ![alt text](image.jpg)
  
 
 - ## Aspect que je souhaiterais faire autrement ou ce que je changerais
