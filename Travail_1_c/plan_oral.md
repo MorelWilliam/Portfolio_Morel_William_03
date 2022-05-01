@@ -14,7 +14,7 @@ Pour commencer ma présentation je vais parler du contexte, donc pourquoi j'ai d
 12. Finalement, l'aspect que je souhaiterais faire autrement ou ce que je changerais.
 
 ## Développement
-En développement, je vais passer point pars point dans l'ordre cité plus tôt et dire les informations écrites.
+À notre visite le 12 mars dernier, à l'exposition Oasis Immersion dans les Galleries du Palais à Montréal, on a pu observer l'oeuvre New Land de Alex Guillou créé en 2021, Recrusive Refletions de Julius Horsthuis et Flow de Maotik qui non aucune information pour les dates de créations. Pour commencer, je vais vous présenter les oeuvres exposés. L'oeuvre Flow est une installation interactive immersive qui s'inspire du " phénomène naturel des marées ". Cette oeuvre à pour but d'être abstraite pour permettre la libre interprétation des interacteurs. L'oeuvre New Land est une "expérience immersive audiovisuelle contemplative qui propose une réflexion sur notre environnement et la façon dont nous percevons la réalité" et finalement, l'oeuvre Recursive Recursive qui n'a aucune information qui est écrite sur l'oeuvre en tant que tel, mais plutôt sur l'artiste. Julius Horsthius utilise les mathématiques et les motifs géométriques. Maintenant pour la salle, elle comportait 3 portes, la porte de sortie, la sortie d'urgence et la porte entrée. Dans l'espace de l'oeuvre nous pouvons remarquer plusieurs bancs et deux énormes boules réflectantes suspendu au plafond. Pour conclure la présentation détaillée des oeuvres
 
 # Conclusion
 Pour conclure, je vais redire en plus court les éléments dit dans le développement et dire que j'ai vraiment apprécié cet session, car c'était un cour qui était très amusant et qui m'a fait découvrir plein de choses.
