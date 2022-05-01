@@ -1,4 +1,4 @@
-Introduction :
+## Introduction :
 
 
 
@@ -8,7 +8,7 @@ Le 31 mars dernier, ma classe et moi sommes allés à la présentation " Mouvanc
 
 
 
-Sujet de Présentation :
+## Sujet de Présentation :
 
 
 
@@ -24,7 +24,7 @@ Deuxièmement, Mme Mc Gilchrist a présenté son projet. Elle a créé une compo
 
 
 
-Appréciation :
+## Appréciation :
 
 
 
