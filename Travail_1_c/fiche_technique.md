@@ -32,7 +32,7 @@
   La salle comportait 3 portes, la porte de sortie, la sortie d'urgence et la porte entrée. Dans l'espace de l'oeuvre nous pouvons remarquer plusieurs bancs et deux énormes boules réflectantes suspendu au plafond. 	![croquis](croquis.png)
 
 - ## Listes des composantes et techniques de l'oeuvre ou dispositif
-  L'expostion Oasis Immersion contait 105 projecteurs au laser et 119 haut-parleurs avec système audio ambiophonique et un ordinateur. Cependant, dans la troisième salles Reconnexion, il y avait de l'interactivité au niveau du plancher, donc nous pouvons supposer que sous le plancher se trouve des détecteurs de mouvements. C'était la seul salle avec un plancher qui était amovible. L'artiste n'avait qu'à envoyer le fichier de son oeuvre à l'exposition. ![sol_reconnexion.JPG](Medias/sol_reconnexion.JPG)
+  L'expostion Oasis Immersion contait 105 projecteurs au laser et 119 haut-parleurs avec système audio ambiophonique et un ordinateur. Cependant, dans la troisième salles Reconnexion, il y avait de l'interactivité au niveau du plancher, donc nous pouvons supposer que sous le plancher se trouve des détecteurs de mouvements. C'était la seul salle avec un plancher qui était amovible. L'artiste n'avait qu'à envoyer le fichier de son oeuvre à l'exposition. ![sol_reconnexion.JPG](Medias/sol_reconnnexion.JPG)
 ![haut-parleur](Medias/haut-parleur.JPG)
   
 - ## Listes des éléments necessaires pour la mise en exposition.
