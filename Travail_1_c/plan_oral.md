@@ -1,5 +1,5 @@
 ## Introduction
-Pour commencer ma présentation je vais parler du contexte, donc pourquoi j'ai décidé d'y aller avec Mickaël et Étienne et ensuite expliquer quelle expérience nous avions et quelles salles j'ai choisi et dire le nom de l'exposition. Pour conclure, je vais dire les différents points que je vais aborder dans ma présentation dans cet ordre exact.
+Bonjour, aujourd'hui je vais vous parler de ma visite à une exposition. J'y suis allé avec Mickael et Etienne et c'était vraiment amusant. L'exposition est un peu compliqué, donc je vais vous expliquer comment l'exposition fonctionne. Dans l'exposition, il y a 3 salle et dans chacune des salles il y a trois oeuvres et moi je vais vous présenter la troisième salle. Pour commencer, je vais dire les différents points que je vais aborder dans ma présentation dans cet ordre exact.
 1. Le lieu de la mise en exposition.
 2. La date de notre visite
 3. Les noms des oeuvres et leurs créateurs.
