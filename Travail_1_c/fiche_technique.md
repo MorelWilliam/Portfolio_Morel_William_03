@@ -29,7 +29,7 @@
   - Dans l'oeuvre New-Land nous pouvons retrouver la même technologie utilisé dans ,l'oeuvre What is Left of Reality de  Pierre Zandrowicz & Ferdinand Dervieux ,que nous avions eu la chance de voir la session passé dans le cour de Guillaume Arsenault. 	![awhat_is_left_of_reality](Medias/oeuvre_what_is_left_of_reality.png)
 
 - ## Explication sur la mise en espace de l'oeuvre ou du dispositif
-  La salle comportait 3 portes, la porte de sortie, la sortie d'urgence et la porte entrée. Dans l'espace de l'oeuvre nous pouvons remarquer plusieurs bancs et deux énormes boules réflectantes suspendu au plafond. 	![croquis](croquis.png)
+  La salle comportait 3 portes, la porte de sortie, la sortie d'urgence et la porte entrée. Dans l'espace de l'oeuvre nous pouvons remarquer plusieurs bancs et deux énormes boules réflectantes suspendu au plafond. 	![croquis](Medias/croquis.png)
 
 - ## Listes des composantes et techniques de l'oeuvre ou dispositif
   L'expostion Oasis Immersion contait 105 projecteurs au laser et 119 haut-parleurs avec système audio ambiophonique et un ordinateur. Cependant, dans la troisième salles Reconnexion, il y avait de l'interactivité au niveau du plancher, donc nous pouvons supposer que sous le plancher se trouve des détecteurs de mouvements. C'était la seul salle avec un plancher qui était amovible. L'artiste n'avait qu'à envoyer le fichier de son oeuvre à l'exposition. ![sol_reconnexion.JPG](Medias/sol_reconnnexion.JPG)
