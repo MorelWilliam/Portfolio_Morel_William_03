@@ -17,4 +17,4 @@ Pour commencer ma présentation je vais parler du contexte, donc pourquoi j'ai d
 En développement, je vais passer point pars point dans l'ordre cité plus tôt et dire les informations écrites.
 
 # Conclusion
-
+Pour conclure, je vais redire en plus court les éléments dit dans le développement et dire que j'ai vraiment apprécié cet session, car c'était un cour qui était très amusant et qui m'a fait découvrir plein de choses.
